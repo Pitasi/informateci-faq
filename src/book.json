@@ -1,8 +1,8 @@
 {
+  "title": "Guida galattica per informatici",
+  "language": "it",
   "plugins": [
-    "theme-faq",
-    "-fontsettings",
-    "-sharing"
+    "theme-faq"
   ],
   "pluginsConfig": {
     "lunr": {
