@@ -1,0 +1,7 @@
+{
+  "pluginsConfig": {
+    "lunr": {
+      "ignoreSpecialCharacters": true
+    }
+  }
+}
