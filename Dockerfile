@@ -8,11 +8,11 @@ ENV NODE_ENV $NODE_ENV
 
 # Install deps, this gets cached if deps didn't change
 COPY package.json /usr/src/app
-RUN npm install && npm cache clean
+RUN npm install
 
 # Copy everything over and build the dist
 COPY . /usr/src/app
-RUN npm run build && npm cache clean
+RUN npm run build
 
 EXPOSE 8080
 
