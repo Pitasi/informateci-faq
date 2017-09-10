@@ -1,4 +1,9 @@
 {
+  "plugins": [
+    "theme-faq",
+    "-fontsettings",
+    "-sharing"
+  ],
   "pluginsConfig": {
     "lunr": {
       "ignoreSpecialCharacters": true

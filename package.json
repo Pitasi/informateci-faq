@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "postinstall": "node_modules/.bin/gitbook install ./src",
     "start": "npm run build && npm run start:server",
     "start:server": "http-server ./_book -s -d false",
     "build": "node_modules/.bin/gitbook build ./src ./_book",
