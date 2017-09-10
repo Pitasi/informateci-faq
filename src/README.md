@@ -8,8 +8,7 @@ In questo documento sono presenti informazioni utili per chi si sta immatricolan
 
 ### Modificare e aggiungere contenuti
 
-Sto scrivendo tutto questo senza un preciso ordine mentale, per questo è tranquillamente possibile modificare o aggiungere nuovi contenuti da questo link: [https://www.gitbook.com/book/pitasi/guida-galattica-per-informatici/edit](https://www.gitbook.com/book/pitasi/guida-galattica-per-informatici/edit).  
-Più semplicemente dovrebbe essere visibile il pulsante _Modifica_ in alto ad ogni pagina.
+Sto scrivendo tutto questo senza un preciso ordine mentale, per questo è tranquillamente possibile modificare o aggiungere nuovi contenuti da questo link: [https://github.com/Pitasi/informateci-faq#contribuire](https://github.com/Pitasi/informateci-faq#contribuire).  
 
 Ho scelto GitBook proprio perché è facile collaborare, è visibile bene anche da mobile, e ha il template per FAQ che mi sembrava perfetto per lo scopo.
 
