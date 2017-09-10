@@ -35,7 +35,10 @@ npm run start:server
 #    per poi fare una nuova build del sito
 npm run build
 
-# 6. Controllare che sia tutto in regola, altrimenti ripetere lo step 5.
+# 6. Controllare che sia tutto in regola, altrimenti modificare e ripetere
+#    la build (utilizzando `gitbook-build` al posto di `build` si evita di
+#    reinstallare plugin già installati precedentemente)
+npm run gitbook-build
 
 # 7. Inviare i cambiamenti al server git
 git push

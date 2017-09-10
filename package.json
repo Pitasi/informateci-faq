@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "node_modules/.bin/gitbook install ./src",
     "start": "npm run build && npm run start:server",
     "start:server": "http-server ./_book -s -d false",
-    "build": "node_modules/.bin/gitbook build ./src ./_book",
+    "build": "npm run gitbook-install && npm run gitbook-build",
+    "gitbook-install": "node_modules/.bin/gitbook install ./src",
+    "gitbook-build": "node_modules/.bin/gitbook build ./src ./_book",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
