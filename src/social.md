@@ -46,6 +46,13 @@ Usatelo per chattare senza problemi riguardo quello , se avete domande di un cer
 Oltre il gruppo, esiste un bot che fornisce alcune funzioni interessanti, come trovare aule libere, o file e libri pronti da scaricare.
 Lo trovate qui: [@informatecibot](https://t.me/informatecibot).
 
+#### Gruppo immatricolati 2017-18
+Gruppo del primo anno di informatica: per unirvi [@informaticaunipi1718](https://t.me/informaticaunipi1718).
+
+#### Crittografia
+Groppo solo per crittografia (a.a. 2017/18) per non spammare sul gruppone generale: per unirvi [cliccate qui](https://t.me/joinchat/AnWsLRDWt_mF_4hSuJe1OA).
+
+
 ## Forum
 
 Facebook e Telegram rappresentano un modo veloce e immediato di comunicare, ma per diffondere informazioni utili a tutti che resistano alle generazioni future abbiamo un forum \(sì, esistono ancora, e dovreste usarlo!\).
