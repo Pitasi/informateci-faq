@@ -39,7 +39,7 @@ Il consiglio è di entrare in quello generico per vedere avvisi generali, e in q
 Telegram ormai è figo. Offre un metodo di comunicare rapido e facile, se per caso ancora non lo abbiate [scaricatelo subito](https://telegram.org/dl)!
 Abbiamo un gruppo pubblico generico per tutti gli studenti, per unirvi [cliccate qui](https://t.me/informaticaunipi) oppure cercate **@informaticaunipi**.
 
-Usatelo per chattare senza problemi riguardo quello , se avete domande di un certo corso inserite l'hashtag con la sigla corrispondente _\(es. **\#PRL**\)_. Trovate un elenco di sigle [in questo paragrafo](/sigle.md) ma non preoccupatevi, le sentirete così spesso che vi si imprimeranno violentemente nella mente.
+Usatelo per chattare senza problemi riguardo quello , se avete domande di un certo corso inserite l'hashtag con la sigla corrispondente _\(es. **\#PRL**\)_. Trovate un elenco di sigle [in questo paragrafo](sigle.md) ma non preoccupatevi, le sentirete così spesso che vi si imprimeranno violentemente nella mente.
 
 #### InformateciBot
 
