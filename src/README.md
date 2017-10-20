@@ -16,9 +16,9 @@ Ho scelto GitBook proprio perché è facile collaborare, è visibile bene anche 
 
 **To Do:**
 
-* ✔️ [Link a gruppi, social, siti](/social.md)
-* ✔️ [Link ufficiali dell'Università](/link-ufficiali.md)
-* ✔️ [Immatricolazioni](/immatricolarsi.md)
+* ✔️ [Link a gruppi, social, siti](social.md)
+* ✔️ [Link ufficiali dell'Università](link-ufficiali.md)
+* ✔️ [Immatricolazioni](immatricolarsi.md)
 * Elenco di tutti i corsi con sigle e link
 * Edifici del Polo Fibonacci e uffici, aule studio / laboratori
 * Mensa, attivare e usare la tessera, link

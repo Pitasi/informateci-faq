@@ -39,12 +39,19 @@ Il consiglio è di entrare in quello generico per vedere avvisi generali, e in q
 Telegram ormai è figo. Offre un metodo di comunicare rapido e facile, se per caso ancora non lo abbiate [scaricatelo subito](https://telegram.org/dl)!
 Abbiamo un gruppo pubblico generico per tutti gli studenti, per unirvi [cliccate qui](https://t.me/informaticaunipi) oppure cercate **@informaticaunipi**.
 
-Usatelo per chattare senza problemi riguardo quello , se avete domande di un certo corso inserite l'hashtag con la sigla corrispondente _\(es. **\#PRL**\)_. Trovate un elenco di sigle [in questo paragrafo](/sigle.md) ma non preoccupatevi, le sentirete così spesso che vi si imprimeranno violentemente nella mente.
+Usatelo per chattare senza problemi riguardo quello , se avete domande di un certo corso inserite l'hashtag con la sigla corrispondente _\(es. **\#PRL**\)_. Trovate un elenco di sigle [in questo paragrafo](sigle.md) ma non preoccupatevi, le sentirete così spesso che vi si imprimeranno violentemente nella mente.
 
 #### InformateciBot
 
 Oltre il gruppo, esiste un bot che fornisce alcune funzioni interessanti, come trovare aule libere, o file e libri pronti da scaricare.
 Lo trovate qui: [@informatecibot](https://t.me/informatecibot).
+
+#### Gruppo immatricolati 2017-18
+Gruppo del primo anno di informatica: per unirvi [@informaticaunipi1718](https://t.me/informaticaunipi1718).
+
+#### Crittografia
+Groppo solo per crittografia (a.a. 2017/18) per non spammare sul gruppone generale: per unirvi [cliccate qui](https://t.me/joinchat/AnWsLRDWt_mF_4hSuJe1OA).
+
 
 ## Forum
 
