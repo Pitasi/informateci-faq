@@ -7,7 +7,7 @@ Per dubbi o informazioni di qualsiasi tipo, non esitate a utilizzare uno dei can
 
 📌 Facebook: https://www.facebook.com/groups/informatica.triennale.pisa
 
-📌 Telegram: https://t.me/informaticaunipi
+📌 Telegram: http://tg.anto.pt
 
 📌 Bot Telegram: https://t.me/informatecibot
 
@@ -37,7 +37,7 @@ Il consiglio è di entrare in quello generico per vedere avvisi generali, e in q
 ## Telegram
 
 Telegram ormai è figo. Offre un metodo di comunicare rapido e facile, se per caso ancora non lo abbiate [scaricatelo subito](https://telegram.org/dl)!
-Abbiamo un gruppo pubblico generico per tutti gli studenti, per unirvi [cliccate qui](https://t.me/informaticaunipi) oppure cercate **@informaticaunipi**.
+Abbiamo un gruppo pubblico generico per tutti gli studenti, per unirvi [cliccate qui](http://tg.anto.pt).
 
 Usatelo per chattare senza problemi riguardo quello , se avete domande di un certo corso inserite l'hashtag con la sigla corrispondente _\(es. **\#PRL**\)_. Trovate un elenco di sigle [in questo paragrafo](sigle.md) ma non preoccupatevi, le sentirete così spesso che vi si imprimeranno violentemente nella mente.
 
